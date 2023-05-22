@@ -66486,7 +66486,7 @@ J(a){var s=null
 return A.anR(A.rk(A.a([A.rk(s,A.eZ(s,s,B.bp,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"flutter"),A.rk(s,s,">")],t.VO),s,"<"),s,s)}}
 A.GS.prototype={
 J(a){var s=null
-return A.eH(A.a([A.cn("My Projects",s,s,A.ai(a).p3.r,s,s),B.vQ,new A.J7(new A.nz(1,0.8,s),new A.nz(2,0.8,s),new A.nz(3,0.7,s),new A.nz(3,0.8,s),s)],t.p),B.aw,B.J)}}
+return A.eH(A.a([A.cn("My Projects",s,s,A.ai(a).p3.r,s,s),B.vQ,new A.J7(new A.nz(1,0.9,s),new A.nz(2,0.8,s),new A.nz(3,0.7,s),new A.nz(3,0.8,s),s)],t.p),B.aw,B.J)}}
 A.nz.prototype={
 J(a){var s=null
 $.akX()

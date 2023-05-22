@@ -23,7 +23,7 @@ class MyProjects extends StatelessWidget {
           height: defaultPadding,
         ),
         Responsive(
-         mobile: ProjectGridView(crossAxisCount: 1,),
+         mobile: ProjectGridView(crossAxisCount: 1,childAspectRatio: .9,),
          mobileLarge: ProjectGridView(crossAxisCount: 2,),
          tablet: ProjectGridView(childAspectRatio: .7,),
          desktop: ProjectGridView()
