@@ -1,0 +1,4 @@
+#Mon May 22 20:36:20 PKT 2023
+base.0=C\:\\Users\\tech coder\\Documents\\Jawan Pakistan\\Flutter\\Practice\\Protfolio\\protfolio\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
